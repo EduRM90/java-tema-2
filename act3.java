@@ -9,7 +9,7 @@ public class act3
         numero = (int)(Math.random()*11);
         System.out.println(numero);
         }while(numero!=10);
-       
+       int numero = 5;
             
     }
 }
